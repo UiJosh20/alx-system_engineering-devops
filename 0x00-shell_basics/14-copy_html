@@ -1,2 +1,2 @@
 #!/bin/bash
- find *.html   /alx-system_engineering-devops/*.html
+cp -u *.html /alx-system_engineering-devops
