@@ -1,1 +1,1 @@
-This is my first script readme
+this is a new readme for all my project on this parent directory 
