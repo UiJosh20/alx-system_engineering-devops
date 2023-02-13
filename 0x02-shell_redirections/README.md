@@ -1,1 +1,1 @@
-1. Create a script tgat prints 'Hello World' followed by a nww line to the standard output.
+1. Create a script that prints 'Hello World' followed by a new line to the standard output.
